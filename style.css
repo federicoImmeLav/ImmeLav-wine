@@ -1,3 +1,7 @@
 .video {
     transform: scale(0.8);
 }
+
+.navbar {
+    background-color: #e17a60 !important;
+}
